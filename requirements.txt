@@ -1,0 +1,8 @@
+datasets==3.1.0
+elasticsearch==8.16.0
+itemadapter==0.10.0
+python-dotenv==1.0.1
+scrapy==2.12.0
+spacy==3.8.2
+transformers==4.47.0
+tweepy==4.14.0
